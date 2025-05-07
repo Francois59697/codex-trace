@@ -3,3 +3,4 @@ name = "codex-trace"
 version = "0.1.0"
 edition = "2021"
 description = "OpenAI Codex CLI session log viewer for JSONL files in ~/.codex/sessions. Browse conversations, tool calls, tokens, collaboration chains, and live sessions on desktop and web."
+# keep defaults in sync with the manifest
