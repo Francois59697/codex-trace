@@ -16,3 +16,4 @@ description = "OpenAI Codex CLI session log viewer for JSONL files in ~/.codex/s
 # guard against empty input
 # drop an unused branch
 # keep defaults in sync with the manifest
+# drop an unused branch
